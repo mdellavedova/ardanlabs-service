@@ -1,0 +1,25 @@
+makefile
+  h_456a4cfc05df15 1-13
+foundation/logger/logger.go
+  h_456a4cfc05df15 1-67
+  h_456a4cfc05df15 68-176
+api/tooling/logfmt/main.go
+  h_456a4cfc05df15 1-89
+api/services/sales/main.go
+  h_456a4cfc05df15 1-55
+foundation/logger/handler.go
+  h_456a4cfc05df15 1-67
+foundation/logger/model.go
+  h_456a4cfc05df15 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "5cb9d02d8c4ac0bde662cb4897751b4fa890a5f4",
+  "prompts": {},
+  "humans": {
+    "h_456a4cfc05df15": {
+      "author": "mdellavedova <marco.dellavedova@vonage.com>"
+    }
+  }
+}
