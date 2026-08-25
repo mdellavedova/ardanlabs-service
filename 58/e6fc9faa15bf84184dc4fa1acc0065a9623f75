@@ -1,0 +1,14 @@
+go.mod
+  h_456a4cfc05df15 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "58e6fc9faa15bf84184dc4fa1acc0065a9623f75",
+  "prompts": {},
+  "humans": {
+    "h_456a4cfc05df15": {
+      "author": "mdellavedova <marco.dellavedova@vonage.com>"
+    }
+  }
+}
