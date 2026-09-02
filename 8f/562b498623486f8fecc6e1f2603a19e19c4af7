@@ -1,0 +1,35 @@
+.dockerignore
+  h_456a4cfc05df15 1-13
+zarf/k8s/base/sales/kustomization.yaml
+  h_456a4cfc05df15 1-4
+zarf/k8s/dev/sales/dev-sales-patch-deploy.yaml
+  h_456a4cfc05df15 1-16
+makefile
+  h_456a4cfc05df15 1-2,11-72,74-105
+  h_456a4cfc05df15 73,106
+zarf/k8s/dev/sales/kustomization.yaml
+  h_456a4cfc05df15 1-11
+api/services/sales/main.go
+  h_456a4cfc05df15 13-14,46
+zarf/k8s/base/sales/base-sales.yaml
+  h_456a4cfc05df15 1-37
+zarf/docker/dockerfile.sales
+  h_456a4cfc05df15 1-36
+zarf/k8s/base/sales/ardanlabs.code-workspace
+  h_456a4cfc05df15 1-14
+zarf/k8s/dev/kind-config.yaml
+  h_456a4cfc05df15 1-38
+zarf/k8s/dev/sales/dev-sales-patch-service.yaml
+  h_456a4cfc05df15 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "8f562b498623486f8fecc6e1f2603a19e19c4af7",
+  "prompts": {},
+  "humans": {
+    "h_456a4cfc05df15": {
+      "author": "mdellavedova <marco.dellavedova@vonage.com>"
+    }
+  }
+}
